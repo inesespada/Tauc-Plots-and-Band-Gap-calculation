@@ -1,4 +1,4 @@
-# Tauc plot of TiO2 anatase nanoparticles and calculation of band gap with error
+# Tauc plots and calculation of band gap with uncertainty propagation
 
 from matplotlib import pyplot as plt
 import numpy as np
